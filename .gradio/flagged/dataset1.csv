@@ -1,0 +1,5 @@
+image,Predictions,timestamp
+.gradio\flagged\image\cd080fb313b9ddc0310d\ujshfdhsfhse.jpg,"{""Object Type"": ""horse (51.7%)"", ""Rotation"": ""0\u00b0 (59.0%)""}",2026-04-15 22:42:27.535100
+.gradio\flagged\image\5382adc759a281a98da2\vroom vroom.jpeg,"{""Object Type"": ""automobile (72.5%)"", ""Rotation"": ""0\u00b0 (56.8%)""}",2026-04-15 22:43:20.509439
+.gradio\flagged\image\06805bbc799e2cd75d9a\ejbuhihfio.jpg,"{""Object Type"": ""automobile (84.8%)"", ""Rotation"": ""90\u00b0 (45.5%)""}",2026-04-15 22:44:33.321374
+.gradio\flagged\image\989d3dc69fb8a057c1fe\sdhduifhiwehe.jpg,"{""Object Type"": ""airplane (100.0%)"", ""Rotation"": ""0\u00b0 (89.1%)""}",2026-04-15 22:45:27.284120
